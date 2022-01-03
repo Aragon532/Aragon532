@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aragon532
-- 👀 I’m interested in machine learning, web3, and startups.
-- 🌱 I’m currently learning machine learning. 
-- 💞️ I’m looking to collaborate on OpenAI Codex and machine learning projects. 
+- 👀 I’m interested in AGI, space exploration, gene editing, life expansion, and neurotechnology.
+- 🌱 I’m currently learning machine learning in Python.
+- 💞️ I’m looking to collaborate on AGI (e.g. OpenAI), space exploration, gene editing, life expansion, and neurotechnology projects.
 - 📫 How to reach me: just send me an email to adrianjuarez532@gmail.com
 - My Twitter: adrianjuarez_01
 - My Linkedin account url: https://www.linkedin.com/in/adrian-juarez-790313210/

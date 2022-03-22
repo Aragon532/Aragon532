@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on AGI (e.g. OpenAI), space exploration, gene editing, life expansion, and neurotechnology projects.
 - 📫 How to reach me: just send me an email to adrianjuarez532@gmail.com
 - My Twitter: adrianjuarez_01
-- My Linkedin account url: https://www.linkedin.com/in/adrian-juarez-790313210/
+- My Linkedin account url: https://www.linkedin.com/in/adri%C3%A1n-ju%C3%A1rez-790313210/

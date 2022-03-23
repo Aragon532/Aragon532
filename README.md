@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aragon532
-- 👀 I’m interested in AGI, space exploration, gene editing, life expansion, and neurotechnology.
+- 👀 I’m interested in startups in AGI, space exploration, gene editing, life expansion, and neurotechnology.
 - 🌱 I’m currently learning machine learning in Python.
 - 💞️ I’m looking to collaborate on AGI (e.g. OpenAI), space exploration, gene editing, life extension, and neurotechnology projects.
 - 📫 How to reach me: just send me an email to adrianjuarez532@gmail.com
